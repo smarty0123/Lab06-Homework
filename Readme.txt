@@ -1,2 +1,2 @@
-งานกลุ่ม Mobile Programming Lab06
-ออกแบบ UI
+For Mobile Programming Lab06
+About UI
